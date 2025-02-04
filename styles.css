@@ -1,0 +1,10 @@
+
+  body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+#team {
+    border: 1px solid #ddd;
+    padding: 10px;
+    display: inline-block;
+}
